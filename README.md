@@ -1,5 +1,5 @@
-# P5.JS-Samples
-Generative Art Coding Pallet Examples🎨✨
+# Generative Art Coding P5.jS Examples Palette 👨🏿‍🎨🎨✨
+Generative Art Coding P5.jS Examples Palette 👨🏿‍🎨🎨✨
 
 # [P5.jS Examples](https://p5js.org/examples/) Palette 👨🏿‍🎨🎨✨
 
